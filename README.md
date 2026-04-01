@@ -18,7 +18,7 @@ L'analyse exploratoire a révélé une forte corrélation entre le temps d'étud
 
 ## Stack Technique
 * **Langage :** Python
-* **Librairies :** * `pandas` & `numpy` (Manipulation de données)
+* **Librairies :**  `pandas` & `numpy` (Manipulation de données)
     * `matplotlib` & `seaborn` (Visualisation)
     * `scikit-learn` (Machine Learning)
 
